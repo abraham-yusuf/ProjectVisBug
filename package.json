@@ -37,7 +37,7 @@
     "test:ci": "start-server-and-test http://localhost:3000"
   },
   "dependencies": {
-    "@ctrl/tinycolor": "^3.0.2",
+    "@ctrl/tinycolor": "^3.4.0",
     "blingblingjs": "^2.1.1",
     "construct-style-sheets-polyfill": "^2.4.2",
     "hotkeys-js": "^3.7.6",
