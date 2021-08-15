@@ -41,7 +41,7 @@
     "blingblingjs": "^2.1.1",
     "construct-style-sheets-polyfill": "^2.4.2",
     "hotkeys-js": "^3.7.6",
-    "query-selector-shadow-dom": "^0.4.6"
+    "query-selector-shadow-dom": "^0.8.0"
   },
   "devDependencies": {
     "ava": "^1.4.1",
